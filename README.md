@@ -23,4 +23,3 @@ This repository contains multiple machine learning projects covering:
 - TensorFlow
 - Matplotlib
 - Seaborn
-"# machine-learning-models-portfolio" 
