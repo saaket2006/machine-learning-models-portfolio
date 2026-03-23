@@ -5,6 +5,7 @@ This repository contains multiple machine learning projects covering:
 - Regression
 - Classification
 - Clustering
+- Support Vector Machine
 - Neural Networks
 
 ## Projects Included:
@@ -21,4 +22,5 @@ This repository contains multiple machine learning projects covering:
 - Scikit-Learn
 - TensorFlow
 - Matplotlib
+- Seaborn
 "# machine-learning-models-portfolio" 
